@@ -34,7 +34,7 @@
 <img src="cp.png"/>
 
 # Liscence
-©️ Santosh Thapa 2020
+©️ ShyamStha 2020
 
 # Creator
 # ShyamStha
